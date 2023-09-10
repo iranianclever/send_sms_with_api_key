@@ -1,4 +1,4 @@
-#!/home/jihad/Desktop/send_message_with_api_key/bin/python
+#!/home/jihad/Desktop/send_sms_with_api_key/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
